@@ -1,7 +1,5 @@
 # NLP Pipeline for Customer Review Analysis (Yelp Dataset)
 
-## Abstract
-
 This document provides a technical overview of the NLP pipeline developed for customer review analysis using the Yelp Dataset. The project combines Supervised Learning (Hybrid MLP Classification) and Unsupervised Learning (Topic Modeling) to extract semantic insights. The workflow encompasses advanced pre-processing (Bigrams, VADER), multi-modal vectorization (TF-IDF + BERT), and a comparative analysis between statistical (LSA) and neural (BERTopic) modeling techniques.
 
 ## Dataset
