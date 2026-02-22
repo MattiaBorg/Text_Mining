@@ -61,8 +61,7 @@ Unsupervised analysis of latent themes using Stratified Sampling.
 
 * **Models:** Comparison between LSA (Statistical) and BERTopic (Semantic).
 * **Metric Alignment:** Coherence () is strictly calculated on `topic_text_clean` to ensure fairness.
-* **Visualization Artifacts:** * **HTML:** Interactive Treemap (Binary) and Sunburst (Multiclass) charts.
-* **PNG:** Static WordClouds and Bar Charts for report inclusion.
+* **Visualization Artifacts:** **HTML:** Interactive Treemap (Binary) and Sunburst (Multiclass) charts. **PNG:** Static WordClouds and Bar Charts for report inclusion.
 
 
 ## System Requirements
